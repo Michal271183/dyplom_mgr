@@ -1,0 +1,8 @@
+2012 Industrial Experiences of Building a Safety Case in Compliance with ISO 26262
+- sekcja III omawia zakres evidence dla przemys³owego safety case systemu kontroli poziomu paliwa (Scania, Szwecja)
+
+2012 Challenges in applying ISO 26262 for driver assistance systems
+- Rysunek 1 pokazuje zakres evidence w kontekœcie cyklu ¿ycia systemu i jego elementów
+
+NASA Safety Handbook
+- sekcja 5.2.1: zakres evidence

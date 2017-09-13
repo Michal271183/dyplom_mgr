@@ -1,0 +1,19 @@
+Wyst¹pienie pierwsze: analiza zagadnienia (stan wiedzy)
+
+    autor i temat pracy, kieruj¹cy prac¹ (promotor), konsultant,
+    cele pracy,
+    dziedzina, której dotyczy praca (przegl¹d stanu wiedzy w obszarze rozwi¹zywanego problemu),
+    narzêdzia o zbli¿onej funkcjonalnoœci (w przypadku pracy teoretycznej: narzêdzia wspomagaj¹ce rozwi¹zanie problemu),
+    przewaga tworzonego narzêdzia nad innymi (w przypadku pracy teoretycznej: korzyœci z rozwi¹zania problemu),
+    stan zaawansowania,
+    plan dalszej pracy.
+
+Wyst¹pienie drugie: prezentacja wyników (rezultaty w³asne autora)
+
+    autor i temat pracy, kieruj¹cy prac¹ (promotor), konsultant,
+    cele pracy,
+    przegl¹d metod rozwi¹zania zadania,
+    objaœnienie zastosowanych metod,
+    otrzymane wyniki (prezentacja narzêdzia),
+    stan zaawansowania,
+    plan dalszej pracy i termin jej zakoñczenia.
